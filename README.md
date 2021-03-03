@@ -1,31 +1,38 @@
 # Stock Analysis
 
+
 ## Overview of Analysis
 
 Performing different analysis through the use of Excel's VBA Developer tool. We were also able to determine if refacturing of the code made the code better, or run faster.
 
 ### Purpose
 
-An Excel workbook was presented to us by an individual named Steve. The workbook contained stock data for green energy stocks in years 2017 and 2018. Steve wanted to help his parents diversify their portfolio, which was only invested in DAQO green energy stock, but was concerned about going through the process. As a result, he reached out for our help. Our job was to help analyze the stock data in this workbook.
+The workbook contained stock data for green energy stocks in years 2017 and 2018. An individual named Steve wanted to help his parents diversify their portfolio, which was only invested in DAQO green energy stock. He was concerned about going through the process. As part of the challenge for Module 2, our job was to help analyze the stock data provided in this workbook.
 
 The purpose of this analysis was to efficiently analyze Steve's stock data provided to us in green_stocks_xls workbook. By using the powerful tool of Excel's VBA, we were able to analyze the data automatically versus perfoming the analysis manually. The analysis was accomplished by using a series of programming readable codes. In doing so, we decreased the chance of making erros as well as saved time.
 
-By the end of the analysis, we provided him with important information extracted by VBA such as, total volume, yearly return values, formatting the the worksheets for easier visualization, and providing tools of access within the sheet.
-
+By the end of the analysis, important information was extracted by VBA such as, total volume, yearly return values, formatting the the worksheets for easier visualization, and providing tools of access within the sheet.
 
 
 
 ### Results
 
-<img width="963" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/77547478/109446836-6bb4ab80-7a10-11eb-8480-e2d7281d2586.png">
-<img width="957" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/77547478/109446849-70795f80-7a10-11eb-84ab-0104f2890327.png">
+I found little diffrence in the outcome as a result of refacturing the code. In fact, it was challenging. I found that it was easier to make mistakes versus creating the original code. As a result, more time should be spent in original code and edit as you create, versus edting an existing code. In my case, it caused confusion. 
+
+The difference in times were not that great. For example as shown on the following:
+
+-Timer 2017 before refactor .515625
+-Timer 2017 after refactor .5234375
+-Timer 2018 before reafactor .5195312
+-Timer 2018 after refactor .5117188
+
+As a result of my analysis, the time ran faster for 2017 before the changes, and 2018 ran faster after the changes. 
 
 
-
-
-
-
-
+![2017_Timer_Before_Refactor.PNG](Resources/2017_Timer_Before_Refactor.png)
+![2018_Timer_Before_Refactor.PNG](Resources/2018_Timer_Before_Refactor.png)
+![VBA_Challenge_2017.PNG](Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018.PNG](Resources/VBA_Challenge_2017.png)
 
 
 
@@ -35,6 +42,7 @@ Reafactoring code, according to our module, is essentially editing the existing 
 
 Refacturing codes, however, can have its advantages as well as disadvantages. The following are the advantages and disadvantages that caught my attention:
 
+
 ###### Disadvantages
 
 - Some parts of the code may be repeated in several parts of the code
@@ -43,9 +51,10 @@ Refacturing codes, however, can have its advantages as well as disadvantages. Th
 
 ###### Advantages
 
-- Errors appear with ease
+- Errors may appear with ease
 - It is mostly safe since one may not refactor without testing
 - Since run times may be shorter, it can boost the system's performance
 - It is possible to make it easier to read than original version
 
-Refacturing code appeared to be effective and eeficient. It cleaned up the existing code and made it easier to read by others. Additionally, it is easy to maintain, edit, and comprehend.
+
+Refacturing code appears to be effective and efficient, depending on who is asked. It does have the ability to clean up the existing code and make it easier to read by others. During my challenge, however, it was not easy to maintain, edit, but was easier to comprehend.
