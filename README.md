@@ -21,18 +21,44 @@ I found little diffrence in the outcome as a result of refacturing the code. In 
 
 The difference in times were not that great. For example as shown on the following:
 
--Timer 2017 before refactor .515625
--Timer 2017 after refactor .5234375
--Timer 2018 before reafactor .5195312
--Timer 2018 after refactor .5117188
+- Timer 2017 before refactor .515625
+- Timer 2017 after refactor .5234375
+- Timer 2018 before reafactor .5195312
+- Timer 2018 after refactor .5117188
 
 As a result of my analysis, the time ran faster for 2017 before the changes, and 2018 ran faster after the changes. 
 
-
+## Figure 1. Timer Before Refactor 2017
 ![2017_Timer_Before_Refactor.PNG](Resources/2017_Timer_Before_Refactor.png)
+
+
+## Figure 2. Timer Before refactor 2018
 ![2018_Timer_Before_Refactor.PNG](Resources/2018_Timer_Before_Refactor.png)
+
+
+## Figure 3. Timer After Refactor 2017
 ![VBA_Challenge_2017.PNG](Resources/VBA_Challenge_2017.png)
-![VBA_Challenge_2018.PNG](Resources/VBA_Challenge_2017.png)
+
+
+## Figure 4. Timer After Refactor 2018
+![VBA_Challenge_2018.PNG](Resources/VBA_Challenge_2018.png)
+
+
+
+In conclusion regarding results, ENPH and RUN were the best performing stocks in 2018 (shown in green). DQ was down 63%. In 2017, however, it was the completely opposite. All of the stocks that year did extremely well, except TERP (shown in red). DQ had a massive return; close to 200%. 
+
+
+## Figure 5. Return percentages  All Stocks 2017
+
+![All_Stocks_2017.PNG](Resources/All_Stocks_2017.png)
+
+
+
+## Figure 6. Return Percentages All Stocks 2018
+
+![All_Stocks_2018.PNG](Resources/All_Stocks_2018.png)
+
+
 
 
 
