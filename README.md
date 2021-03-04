@@ -3,7 +3,7 @@
 
 ### Overview of Analysis
 
-Performing different analysis through the use of Excel's VBA Developer tool. We were also able to determine if refacturing of the code made the code better, or run faster.
+The overview was to show the results of stock data analysis through the use of Excel's VBA Developer tool. The ultimate goal was to refactor an existing code in order to evaluate if refacturing of the code made the code better, or run faster.
 
 ### Purpose
 
