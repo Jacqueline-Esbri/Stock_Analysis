@@ -1,7 +1,7 @@
 # Stock Analysis
 
 
-## Overview of Analysis
+### Overview of Analysis
 
 Performing different analysis through the use of Excel's VBA Developer tool. We were also able to determine if refacturing of the code made the code better, or run faster.
 
@@ -28,19 +28,19 @@ The difference in times were not that great. For example as shown on the followi
 
 As a result of my analysis, the time ran faster for 2017 before the changes, and 2018 ran faster after the changes. 
 
-## Figure 1. Timer Before Refactor 2017
+### Figure 1. Timer Before Refactor 2017
 ![2017_Timer_Before_Refactor.PNG](Resources/2017_Timer_Before_Refactor.png)
 
 
-## Figure 2. Timer Before refactor 2018
+### Figure 2. Timer Before refactor 2018
 ![2018_Timer_Before_Refactor.PNG](Resources/2018_Timer_Before_Refactor.png)
 
 
-## Figure 3. Timer After Refactor 2017
+### Figure 3. Timer After Refactor 2017
 ![VBA_Challenge_2017.PNG](Resources/VBA_Challenge_2017.png)
 
 
-## Figure 4. Timer After Refactor 2018
+### Figure 4. Timer After Refactor 2018
 ![VBA_Challenge_2018.PNG](Resources/VBA_Challenge_2018.png)
 
 
