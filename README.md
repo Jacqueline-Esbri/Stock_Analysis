@@ -3,7 +3,7 @@
 
 ### Overview of Analysis
 
-The overview was to show the results of stock data analysis through the use of Excel's VBA Developer tool. The ultimate goal was to refactor an existing code in order to evaluate if refacturing of the code made the code better, or run faster.
+The overview of this project was to show the results of stock data analysis through the use of Excel's VBA Developer tool. The ultimate goal of the project was to refactor an existing code in order to evaluate if refacturing made the code better, or run faster.
 
 ### Purpose
 
@@ -19,7 +19,7 @@ By the end of the analysis, important information was extracted by VBA such as, 
 
 I found little diffrence in the outcome as a result of refacturing the code. In fact, it was challenging. I found that it was easier to make mistakes versus creating the original code. As a result, more time should be spent in original code and edit as you create, versus edting an existing code. In my case, it caused confusion. 
 
-The difference in times were not that great. For example as shown on the following:
+The difference in times were not that great. The following show the results:
 
 - Timer 2017 before refactor .515625
 - Timer 2017 after refactor .5234375
