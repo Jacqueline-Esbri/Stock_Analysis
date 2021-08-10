@@ -5,7 +5,7 @@
 
 An Excel workbook containing stock data from years 2017 and 2018 was provided for the analysis. A client wanted to help his parents diversify their portfolio, which was only invested in DAQO green energy stock. 
 
-The goal of the project was to analyze stock performance data using VBA. An existing code was refactored an in order to evaluate if it ran better or faster.
+The goal of the project was to analyze stock performance data using VBA. An existing code was refactored in order to evaluate if it ran better or faster.
 
 
 ### Results
