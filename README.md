@@ -10,7 +10,7 @@ The goal of the project was to analyze stock performance data using VBA. An exis
 
 ### Results
 
-By the end of the analysis, important information was extracted such as total volume and yearly return values. The worksheets were formatted for easier visualization and tools for easy access within the sheet were created.
+By the end of the analysis, important information was extracted, such as total volume and yearly return values. The worksheets were formatted for easier visualization and tools for easy access within the sheet were created.
 
 The analysis showed no significant difference in the outcome as a result of refactoring the code.
 
