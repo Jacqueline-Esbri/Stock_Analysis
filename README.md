@@ -21,28 +21,28 @@ The analysis showed no significant difference in the outcome as a result of refa
 
 As shown above, the 2017 timer ran faster **before** the changes, and 2018 timer ran faster **after** the changes. 
 
-#### Timer Before Refactor 2017
+#### Timer before refactor 2017
 ![2017_Timer_Before_Refactor.PNG](Resources/2017_Timer_Before_Refactor.png)
 
 
-#### Timer Before refactor 2018
+#### Timer before refactor 2018
 ![2018_Timer_Before_Refactor.PNG](Resources/2018_Timer_Before_Refactor.png)
 
 
-#### Timer After Refactor 2017
+#### Timer after refactor 2017
 
 ![VBA_Challenge_2017.PNG](Resources/VBA_Challenge_2017.png)
 
 
-#### Timer After Refactor 2018
+#### Timer after refactor 2018
 
 ![VBA_Challenge_2018.PNG](Resources/VBA_Challenge_2018.png)
 
-#### Return percentages  All Stocks 2017
+#### Return percentages All Stocks 2017
 
 ![All_Stocks_2017.PNG](Resources/All_Stocks_2017.png)
 
-#### Return Percentages All Stocks 2018
+#### Return percentages All Stocks 2018
 
 ![All_Stocks_2018.PNG](Resources/All_Stocks_2018.png)
 
